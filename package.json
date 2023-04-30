@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server.js"
+  },
+  "name": "expresscrashcourse",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
